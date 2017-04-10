@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kristiansenMods",
+  "name": "Mods from 'Minecraft Modding with Forge'",
+  "description": "Mods created by following along in 'Minecraft Modding with Forge'",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Morten Kristiansen", "Spencer Kristiansen", "Elliott Kristiansen"],
+  "credits": "The Forge and FML guys, for making this possible. The Guptas for writing the book",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
